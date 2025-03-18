@@ -1,5 +1,7 @@
 # AcademiaHub
+ This project is designed to manage student information efficiently. The system allows for basic CRUD (Create, Read, Update, Delete) operations on student records, which are stored in a JSON file. The project is built using Python and utilizes the Flask framework for web development.
 
+ 
 ## GET
 GET student by ID `/se.iths/api/v1/student/{id}`
 
