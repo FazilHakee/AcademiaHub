@@ -1,8 +1,8 @@
 # AcademiaHub
 
-Endpoints:
+##Endpoints:
 
-##GET
+###GET
 GET student by ID /se.iths/api/v1/student/{id}
 
 GET all students /se.iths/api/v1/student/getall
